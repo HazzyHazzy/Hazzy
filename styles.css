@@ -1,5 +1,8 @@
-body {
-background-color: blueviolet;
+body{
 
-
-}
+    background-color: #ffb6c1;
+    font-style: italic;
+ }
+ h1{
+    color: rgb(147, 61, 119);
+ }
